@@ -6,11 +6,11 @@
 /* betty style doc for function main goes there */
 
 int main(void)
+/*
+* this function assign
+* a random number to the variable n
+*/
 {
-	/*
-	* this function assign
-	* a random number to the variable n
-	*/
 	int n;
 
 	srand(time(0));
@@ -18,7 +18,7 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	{
-		printf("%d is positive=\n", n);
+		printf("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
