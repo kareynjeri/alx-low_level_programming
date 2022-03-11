@@ -5,11 +5,11 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 
-int main(void)
 /*
 * this function assign
 * a random number to the variable n
 */
+int main(void)
 {
 	int n;
 
