@@ -1,5 +1,3 @@
-
-   
 /*
  * File: 104-fibonacci.c
  * Auth: Samuel Kioko
