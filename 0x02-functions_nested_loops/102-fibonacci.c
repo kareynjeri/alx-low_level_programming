@@ -1,7 +1,3 @@
-/*
- * File: 102-fibonacci.c
- * Auth: Samuel Kioko
- */
 #include <stdio.h>
 /**
  * main - Prints first 50 Fibonacci numbers, starting with 1 and 2,

@@ -1,7 +1,3 @@
-/*
- * File: 103-fibonacci.c
- * Auth: Samuel Kioko
- */
 #include <stdio.h>
 /**
  * main -  finds and prints the sum of the even-valued terms,
