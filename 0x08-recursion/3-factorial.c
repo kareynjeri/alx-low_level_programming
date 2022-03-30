@@ -1,10 +1,9 @@
 # include "main.h"
 /**
-* factorial() -  factorial of n
-*@n: number
-*RETURNS -1 WHEN n is greater than 0
-*Return: recursion 
-**/
+ * factorial - factorial n
+ * @n: integer arams
+ * Return: recursion
+ */
 
 int factorial(int n)
 {
