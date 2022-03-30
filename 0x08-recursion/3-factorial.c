@@ -1,6 +1,7 @@
 # include "main.h"
 /**
-* int factorial(int n) - gets factorial of n
+* factorial() - gets factorial of n
+*@n: number
 *RETURNS -1 WHEN n is greater than 0
 **/
 
@@ -14,6 +15,6 @@ else if (n == 0 || n == 1)
 return (1);
 else
 {
-return (n * factorial(n -1)); 
+return (n * factorial(n - 1));
 }
 }
