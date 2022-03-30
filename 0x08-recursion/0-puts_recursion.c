@@ -2,7 +2,6 @@
 /**
 * _puts_recursion(char *s) - prints a string 
 */
-
 void _puts_recursion(char *s)
 {
 if (*s)
