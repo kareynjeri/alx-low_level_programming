@@ -1,4 +1,7 @@
 # include "main.h"
+/**
+_puts_recursion(char *s) - returns 0 
+*/
 
 void _puts_recursion(char *s)
 {
